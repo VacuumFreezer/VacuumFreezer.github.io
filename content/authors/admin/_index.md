@@ -1,47 +1,45 @@
 ---
 title: Tong Shen
-role: Undergraduate Student
-bio: Fudan University
-interests:
-  - The application of machine learning in scientific problems
-  - Advanced numerical algorithms for scientific computing
-  - Fundamental problems in AI; Explainable AI
- 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-    display:
-      header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/tongshen01
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+first_name: Tong
+last_name: Shen
+superuser: true
+highlight_name: true
+role: Ph.D. Student in Applied Mathematics
+bio: Distributed quantum computing, quantum control, and machine learning.
 organizations:
-  - name: Fudan University
-    url: https://www.fudan.edu.cn/en
+- name: Stony Brook University
+  url: https://www.stonybrook.edu/
+interests:
+- Distributed quantum computing
+- Quantum control & reinforcement learning
+- Quantum simulation & scientific machine learning
 education:
   courses:
-    - course: BSc in Physics
-      institution: Fudan University
-      year: 09/2020-06/2024      
-    - course: High School Diploma
-      institution: No.2 High School of East China Normal University
-      year: 09/2017-07/2020
-      
-superuser: true
-status:
-  icon: ☕️
-last_name: Shen
-highlight_name: true
-first_name: Tong
-email: ""
+  - course: Ph.D. in Applied Mathematics and Statistics
+    institution: Stony Brook University
+    year: 2024–2029 (expected)
+  - course: M.S. in Applied Mathematics and Statistics
+    institution: Stony Brook University · GPA 4.0/4.0
+    year: 2024–2025
+  - course: B.S. in Physics
+    institution: Fudan University
+    year: 2020–2024
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:tong.shen.1@stonybrook.edu
+- icon: github
+  icon_pack: fab
+  link: https://github.com/VacuumFreezer
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tong-shen-b14436306
+email: tong.shen.1@stonybrook.edu
 ---
-I'm currently a senior undergraduate at Department of Physics, Fudan University. My research interests include advanced numerical algorithms, machine learning, explainable AI and elementry particle physics.
+I am a Ph.D. student in **Applied Mathematics and Statistics** at **Stony Brook University**, on the Computational Applied Mathematics track. My research focuses on distributed quantum computing and quantum control, drawing on quantum simulation, numerical methods, and machine learning.
 
-I'm very honored to be advised by [Prof. Jiayin Gu](https://phys.fudan.edu.cn/4b/db/c7605a412635/page.htm) from Department of Physics, Fudan University. I was also advised by [Prof. Zhen Liu](https://cse.umn.edu/physics/zhen-liu) from School of Physics and Astronomy, University of Minnesota when I stayed at UMN in 2023 as a visiting student intern.
+I work with [Prof. Ji Liu](https://sites.google.com/site/jiliucontrol) on distributed and federated quantum linear solvers, and with Prof. Ji Liu and [Prof. Hyeongrak Choi](https://qep.ece.stonybrook.edu/) on reinforcement learning for quantum gate control. Previously, I studied physics at Fudan University and conducted machine learning research for particle physics at Fudan and the University of Minnesota.
 
-**I will continue my graduate study in the Department of Applied Mathematics & Statistics at Stony Brook University since 2024 Fall.**
-{style="text-align: justify;"}
+**I am seeking quantum research and engineering internships.**
+
+[Get in touch](mailto:tong.shen.1@stonybrook.edu)

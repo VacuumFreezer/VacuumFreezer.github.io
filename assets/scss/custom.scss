@@ -1,0 +1,21 @@
+html { scroll-behavior: smooth; }
+body { font-size: 18px; line-height: 1.7; }
+.navbar { font-size: 16px; }
+.home-section { padding: 84px 0; }
+.home-section:first-of-type { padding-top: 64px; }
+.section-heading h1 { font-size: 2rem; line-height: 1.25; }
+.portrait-title h2 { font-weight: 650; }
+.portrait-title h3 { font-size: 1.05rem; line-height: 1.5; }
+#profile .avatar { width: 220px; height: 220px; }
+.experience .card-text { font-size: 1rem; }
+.card .card-text { color: inherit; }
+a:focus-visible, button:focus-visible { outline: 3px solid #1565c0; outline-offset: 4px; }
+section[id] { scroll-margin-top: 70px; }
+@media (max-width: 767px) {
+ .home-section { padding: 52px 0; }
+ .home-section:first-of-type { padding-top: 30px; }
+ .section-heading { margin-bottom: 1.5rem; }
+ .section-heading h1 { font-size: 1.8rem; }
+ body { font-size: 17px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }

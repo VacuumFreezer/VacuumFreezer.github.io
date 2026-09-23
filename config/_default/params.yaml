@@ -1,36 +1,24 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
-
 appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
-
-# SEO
-
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: Tong Shen is a Ph.D. student at Stony Brook University researching
+      distributed quantum computing, quantum control, and machine learning.
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''  
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
-
-# Site header
-
 header:
   navbar:
     enable: true
@@ -40,27 +28,15 @@ header:
     show_day_night: true
     show_search: false
     highlight_active_link: true
-
-# Site footer
-
 footer:
   copyright:
-    notice: '© {year} Tong Shen. This work is licensed under {license}'
+    notice: "\xA9 {year} Tong Shen."
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
-
-# Localization
-
+      enable: false
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: Jan 2, 2006
+  time_format: 3:04 PM
   address_format: en-us
-
-# Site features
-
 features:
   syntax_highlighter:
     theme_light: github-light
@@ -70,7 +46,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: https://github.com/VacuumFreezer/VacuumFreezer.github.io
     content_dir: content
     branch: main
   avatar:
@@ -99,18 +75,11 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-
-# Extensions
-
 extensions:
   cms:
     branch: main
     local_backend: false
   academicons:
     enable: true
-
-# Security
-
 security:
-  # Allow frame for embedding speaker notes in slides
   allow_frame: true
