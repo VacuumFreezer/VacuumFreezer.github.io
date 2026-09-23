@@ -147,8 +147,9 @@ sections:
     text: "**Quantum algorithms**  \nDistributed and variational algorithms, quantum linear solvers, LCU decomposition, circuit\
       \ simulation · Qiskit, PennyLane, QuTiP\n\n**Machine learning & optimization**  \nPyTorch, TensorFlow · Deep reinforcement\
       \ learning (DDPG / PPO / GRPO), distributed optimization, Monte Carlo methods, numerical methods for PDEs\n\n**Programming\
-      \ & computing**  \nPython (NumPy, SciPy, Matplotlib), C/C++, MATLAB, Mathematica, Lean 4 · Linux, Git, Docker, Slurm\n\
-      \n**AI research tools**  \nMCP server development, graph engineering, autonomous theorem proving"
+      \ & computing**  \nPython (NumPy, SciPy, Matplotlib), C/C++, MATLAB, Mathematica, Lean 4, Linux, Git, Docker, Slurm\n\
+      \n**AI research tools**  \n[MCP server development](https://github.com/VacuumFreezer/patchouli_knowledge_database),\
+      \ graph engineering, autonomous theorem proving"
   design:
     columns: '2'
 - block: markdown
@@ -183,8 +184,7 @@ sections:
   content:
     title: Interests
     text: "Outside research, I enjoy **cooking, photography, fitness, history, and geography**.\n\n### Community involvement\n\
-      **Youth Committee Member**  \nFudan University New York Alumni Association · 2024–present\n\n**Roles: Interviewer &\
-      \ Photographer**  \nI contribute as an interviewer and photographer for the alumni association."
+      **Youth Committee Member — Interviewer & Photographer**  \nFudan University New York Alumni Association · 2024–present"
   design:
     columns: '2'
 - block: contact
