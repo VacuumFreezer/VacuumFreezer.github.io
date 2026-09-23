@@ -1,13 +1,13 @@
 # Tong Shen — Personal Website
 
-Academic website based on [tongshen01/tongshen01.github.io](https://github.com/tongshen01/tongshen01.github.io) and the Hugo Academic / Wowchemy theme. The original portrait and academic layout are retained; content is based on the supplied September 2026 CV.
+Academic website based on [tongshen01/tongshen01.github.io](https://github.com/tongshen01/tongshen01.github.io) and the Hugo Academic / Wowchemy theme. The academic layout is retained; content is based on the supplied September 2026 CVs. The supplied travel photograph is framed around the head and shoulders without changing the original image.
 
 Live site: https://vacuumfreezer.github.io/
 
 ## Edit content
 
 - `content/authors/admin/_index.md`: biography, education, social links
-- `content/_index.md`: research, employment, skills, conferences, awards, contact
+- `content/_index.md`: research, employment, skills, coursework, conferences, awards, interests, contact
 - `content/publication/`: publications and citations
 - `config/_default/menus.yaml`: navigation
 - `assets/scss/custom.scss`: layout refinements

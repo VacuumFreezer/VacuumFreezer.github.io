@@ -38,7 +38,7 @@ email: tong.shen.1@stonybrook.edu
 ---
 I am a Ph.D. student in **Applied Mathematics and Statistics** at **Stony Brook University**, on the Computational Applied Mathematics track. My research focuses on distributed quantum computing and quantum control, drawing on quantum simulation, numerical methods, and machine learning.
 
-I work with [Prof. Ji Liu](https://sites.google.com/site/jiliucontrol) on distributed and federated quantum linear solvers, and with Prof. Ji Liu and [Prof. Hyeongrak Choi](https://qep.ece.stonybrook.edu/) on reinforcement learning for quantum gate control. Previously, I studied physics at Fudan University and conducted machine learning research for particle physics at Fudan and the University of Minnesota.
+I work with [Prof. Ji Liu](https://sites.google.com/site/jiliucontrol) on distributed and federated quantum linear solvers, and with [Prof. Ji Liu](https://sites.google.com/site/jiliucontrol) and [Prof. Hyeongrak Choi](https://qep.ece.stonybrook.edu/) on reinforcement learning for quantum gate control. Previously, I studied physics at Fudan University and conducted machine learning research for particle physics at Fudan and the University of Minnesota.
 
 **I am seeking quantum research and engineering internships.**
 

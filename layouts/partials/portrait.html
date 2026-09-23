@@ -1,0 +1,4 @@
+{{ $image := .image.Resize "1200x" }}
+<span class="portrait-frame {{ .class }}">
+  <img class="portrait-source" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ .name }}" decoding="async">
+</span>

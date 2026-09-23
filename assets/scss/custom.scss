@@ -19,3 +19,23 @@ section[id] { scroll-margin-top: 70px; }
  body { font-size: 17px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Frame the original travel photograph around the head and shoulders. */
+.portrait-frame {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.portrait-main { width: 220px; height: 220px; margin: 0 auto; }
+.portrait-small { width: 100px; height: 100px; }
+.portrait-frame .portrait-source {
+  position: absolute;
+  width: 272.34%;
+  max-width: none;
+  height: auto;
+  left: -131.91%;
+  top: -178.72%;
+}
+#coursework h3:not(:first-child), #interests h3 { margin-top: 2rem; }
